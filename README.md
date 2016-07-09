@@ -1,6 +1,8 @@
 # motion-activated-surveillance-camera-using-raspberry-pi-with-push-notification-
 
 
+project demo link   ( https://www.youtube.com/watch?v=0xdHMJycNEA )
+
 components used:
      Raspberry pi 2 ,  PIR sensor , picamera ,sd card, power source , LAN cable (you can also use wifi dongle instead) and an app named pushetta(where you will get notification).
 
